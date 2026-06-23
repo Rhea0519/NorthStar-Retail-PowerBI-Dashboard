@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+P001,Elec-Item-1,Electronics,9.88,13.89
+P002,Home-Item-2,Home & Kitchen,52.75,74.14
+P003,Appa-Item-3,Apparel,148.61,208.87
+P004,Beau-Item-4,Beauty,21.95,30.85
+P005,Spor-Item-5,Sports,11.2,15.74
+P006,Elec-Item-6,Electronics,47.63,66.94
+P007,Beau-Item-7,Beauty,122.39,172.02
+P008,Beau-Item-8,Beauty,43.77,61.52
+P009,Beau-Item-9,Beauty,86.81,122.01
+P010,Spor-Item-10,Sports,119.91,168.53
+P011,Elec-Item-11,Electronics,152.97,215.0
+P012,Appa-Item-12,Apparel,141.14,198.37
+P013,Home-Item-13,Home & Kitchen,59.18,83.18
+P014,Appa-Item-14,Apparel,191.66,269.38
+P015,Home-Item-15,Home & Kitchen,24.93,35.04
+P016,Spor-Item-16,Sports,23.86,33.54
+P017,Home-Item-17,Home & Kitchen,122.73,172.5
+P018,Elec-Item-18,Electronics,147.3,207.03
+P019,Beau-Item-19,Beauty,29.34,41.24
+P020,Spor-Item-20,Sports,20.37,28.63
+P021,Home-Item-21,Home & Kitchen,166.73,234.34
+P022,Beau-Item-22,Beauty,177.66,249.7
+P023,Home-Item-23,Home & Kitchen,117.58,165.26
+P024,Elec-Item-24,Electronics,13.94,19.59
+P025,Appa-Item-25,Apparel,155.75,218.91
+P026,Elec-Item-26,Electronics,171.79,241.45
+P027,Elec-Item-27,Electronics,79.12,111.2
+P028,Spor-Item-28,Sports,128.96,181.25
+P029,Home-Item-29,Home & Kitchen,36.72,51.61
+P030,Home-Item-30,Home & Kitchen,45.85,64.44
+P031,Home-Item-31,Home & Kitchen,141.85,199.37
+P032,Elec-Item-32,Electronics,123.78,173.97
+P033,Appa-Item-33,Apparel,109.16,153.42
+P034,Appa-Item-34,Apparel,36.86,51.81
+P035,Spor-Item-35,Sports,57.64,81.01
+P036,Beau-Item-36,Beauty,47.82,67.21
+P037,Home-Item-37,Home & Kitchen,169.36,238.03
+P038,Elec-Item-38,Electronics,49.66,69.8
+P039,Elec-Item-39,Electronics,161.98,227.66
+P040,Spor-Item-40,Sports,57.21,80.41
