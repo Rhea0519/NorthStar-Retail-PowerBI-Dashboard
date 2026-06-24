@@ -38,4 +38,5 @@ retail sales, profit, budget variance and customer segments.
 Power BI Desktop | PostgreSQL | DAX | Power Query | Excel
 
 ##  Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+<img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/4de8124d-7eba-4f1d-bd58-308089d66952" />
+
